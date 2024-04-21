@@ -1,6 +1,6 @@
 # walmart_analysis
 
-This is a mini python project: Walmart Data-analysis
+This is a mini python project: Walmart Data-analysis. The source file has been taken from kaggle. I have added the file(xlsx) with the notebook.
 
 # dataset_info:
 this dataset contains 3200+ Walmart order details. including, customer name, sales, profit, dates, etc.
