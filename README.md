@@ -23,8 +23,8 @@ In this section, the dataset was explored to identify trends and patterns, creat
 - Which product has the highest profit?
 
 # Data Insights - 
-- Overall sales figure of the dataset is 725457.8245
-- Numbers of Unique customer is 686
+- Overall sales figure of the dataset is 725457.8245 \n
+- Numbers of Unique customer is 686 \n
 - Average time taken to ship order is 4.0 days
 - Highest sale month is 12 and the sale amount is 115934.54
 - # Top 5 customers based on total sales are - 
