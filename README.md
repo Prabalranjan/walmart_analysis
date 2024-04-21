@@ -23,16 +23,16 @@ In this section, the dataset was explored to identify trends and patterns, creat
 - Which product has the highest profit?
 
 # Data Insights - 
-- Overall sales figure of the dataset is 725457.8245 \n
-- Numbers of Unique customer is 686 \n
+- Overall sales figure of the dataset is 725457.8245
+- Numbers of Unique customer is 686
 - Average time taken to ship order is 4.0 days
 - Highest sale month is 12 and the sale amount is 115934.54
 - # Top 5 customers based on total sales are - 
- Raymond Buch : 14345.276
- Ken Lonsdale : 8472.394
- Edward Hooks : 7447.77
- Jane Waco : 7391.530000000001
- Karen Ferguson : 7182.766
+ Raymond Buch : 14345.276  
+ Ken Lonsdale : 8472.394  
+ Edward Hooks : 7447.77  
+ Jane Waco : 7391.530000000001  
+ Karen Ferguson : 7182.766  
 
 - # top 3 cities with highest sale are - 
  Los Angeles : 175851.34
