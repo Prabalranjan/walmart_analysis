@@ -35,27 +35,27 @@ In this section, the dataset was explored to identify trends and patterns, creat
  Karen Ferguson : 7182.766  
 
 - # top 3 cities with highest sale are - 
- Los Angeles : 175851.34
- Seattle : 119540.74
- San Francisco : 112669.09
+ Los Angeles : 175851.34  
+ Seattle : 119540.74  
+ San Francisco : 112669.09  
  
 - # top 5 selling products based on quantity
- Staples 216
- Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear 32
- Cardinal EasyOpen D-Ring Binders 31
- Eldon Wave Desk Accessories 30
- LogitechÂ P710e Mobile Speakerphone 29
+ Staples 216  
+ Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear 32  
+ Cardinal EasyOpen D-Ring Binders 31  
+ Eldon Wave Desk Accessories 30  
+ LogitechÂ P710e Mobile Speakerphone 29  
 
 - # Top 5 selling product bases on Sales
- Canon imageCLASS 2200 Advanced Copier 13999.960
- High Speed Automatic Electric Letter Opener 13100.240
- Global Troy Executive Leather Low-Back Tilter 10019.600
- Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind 8134.336
- GuestStacker Chair with Chrome Finish Legs 8030.016
+ Canon imageCLASS 2200 Advanced Copier 13999.960  
+ High Speed Automatic Electric Letter Opener 13100.240  
+ Global Troy Executive Leather Low-Back Tilter 10019.600  
+ Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind 8134.336  
+ GuestStacker Chair with Chrome Finish Legs 8030.016  
 
 - # top 5 profit generated products
- Canon imageCLASS 2200 Advanced Copier 6719.9808
- Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind 3050.3760
- Canon PC1060 Personal Laser Copier 2267.9676
- Hewlett Packard LaserJet 3310 Copier 2183.9636
- LogitechÂ Z-906 Speaker sys - home theater - 5.1-CH 1715.9480
+ Canon imageCLASS 2200 Advanced Copier 6719.9808  
+ Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind 3050.3760  
+ Canon PC1060 Personal Laser Copier 2267.9676  
+ Hewlett Packard LaserJet 3310 Copier 2183.9636  
+ LogitechÂ Z-906 Speaker sys - home theater - 5.1-CH 1715.9480  
